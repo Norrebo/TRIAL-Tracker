@@ -1,12 +1,12 @@
 {
   "name": "TRIAL Tracker",
-  "version": "1.0.0",
-  "manifest_version": 1,
-  "action": {
-    "title": "TRIAL Tracker",
-    "icon": "/icon.svg",
-    "popover": "/",
-    "height": 600,
-    "width": 400
-  }
+  "version": "0.1",
+  "description": "Dodatek do śledzenia postępów w grze fabularnej.",
+  "author": "Norebo",
+  "main": "https://github.com/Norebo/TwojeRepo/main",
+  "assets": [],
+  "dependencies": {},
+  "keywords": [],
+  "license": "MIT",
+  "icon": "icon.svg"
 }
