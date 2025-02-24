@@ -1,3 +1,6 @@
+console.log("✅ Stat Tracker: Skrypt został załadowany!");
+alert("✅ Stat Tracker działa!");
+
 // Owlbear Rodeo 2.0 Plugin - Stat Tracker
 // Dodatek do zarządzania statystykami tokenów
 
