@@ -2,6 +2,7 @@
   "name": "TRIAL Tracker",
   "version": "1.0.0",
   "manifest_version": 1,
+  "entry": "https://Norrebo.github.io/TRIAL-Tracker/stat-tracker.js"
   "action": {
     "title": "TRIAL Tracker",
     "icon": "/icon.svg",
